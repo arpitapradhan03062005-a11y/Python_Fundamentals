@@ -106,23 +106,6 @@ Every program was written by me as part of my daily learning journey.
 
 ---
 
-## 🚀 Learning Journey
-
-This repository is part of my journey toward becoming an **AI Engineer**.
-
-Upcoming learning roadmap:
-
-- Advanced Python
-- NumPy
-- Pandas
-- Matplotlib
-- SQL
-- Machine Learning
-- Deep Learning
-- Django
-- AI Projects
-
----
 
 ## ⭐ Repository Stats
 
